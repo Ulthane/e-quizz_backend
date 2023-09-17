@@ -1,0 +1,16 @@
+{
+  "name": "e-quizz",
+  "version": "1.0.0",
+  "description": "Backend du jeu E-Quizz",
+  "main": "server.js",
+  "scripts": {
+    "dev": "clear && nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ulthane",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.5.4"
+  }
+}

@@ -1,0 +1,409 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",       
+  "difficulté": "3 / 5",
+  "version": 1,
+  "mise-à-jour": "2022-05-02",
+  "catégorie-nom-slogan": {
+    "fr": {
+      "catégorie": "Célébrités",
+      "nom": "People : juillet 2017",
+      "slogan": "Ils ont fait l'actualité"
+    },
+    "en": {
+      "catégorie": "Celebrities",
+      "nom": "People: July 2017",
+      "slogan": "They made the news"
+    },
+    "es": {
+      "catégorie": "Famosos",
+      "nom": "Gente: julio de 2017",
+      "slogan": "Fueron noticia"
+    },
+    "it": {
+      "catégorie": "Celebrità",
+      "nom": "Persone: luglio 2017",
+      "slogan": "Hanno fatto notizia"
+    },
+    "de": {
+      "catégorie": "Prominente",
+      "nom": "Personen: Juli 2017",
+      "slogan": "Sie machten die Nachrichten"
+    },
+    "nl": {
+      "catégorie": "Beroemdheden",
+      "nom": "Mensen: juli 2017",
+      "slogan": "Ze haalden het nieuws"
+    }
+  },
+  "quizz": {
+    "fr": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Quelle animatrice télé a fêté en juillet 2017 son million d'abonnés sur Twitter ?",
+        "propositions": [
+          "Enora Malagré",
+          "Caroline Ithurbide",
+          "Valérie Bénaïm",
+          "Géraldine Maillet"
+        ],
+        "réponse": "Enora Malagré",
+        "anecdote": "Enora Malagré a préparé pour l'occasion une fête avec tous ses fans et une autre animation durant le deuxième week-end de septembre."
+      },
+      {
+        "id": 2,
+        "question": "Quel danseur a décidé de continuer sa carrière sous l'influence de Céline Dion ?",
+        "propositions": [
+          "Antonio Gades",
+          "Pep Ramis",
+          "Pablo Puyol",
+          "Pepe Munoz"
+        ],
+        "réponse": "Pepe Munoz",
+        "anecdote": "Le danseur de 33 ans avait pourtant envisagé de délaisser la danse pour se consacrer à sa seconde passion : le stylisme."
+      },
+      {
+        "id": 3,
+        "question": "Quel humoriste est systématiquement contrôlé par le fisc depuis près de 30 ans ?",
+        "propositions": [
+          "Arnaud Tsamere",
+          "Olivier de Benoist",
+          "Jean-Marie Bigard",
+          "Ahmed Sylla"
+        ],
+        "réponse": "Jean-Marie Bigard",
+        "anecdote": "Jean-Marie Bigard manque également souvent d'être déprogrammé pour son sexisme et sa vulgarité par le CSA."
+      },
+      {
+        "id": 4,
+        "question": "Quel nageur, aujourd'hui retraité, a remporté l'or à Budapest en juillet 2017 ?",
+        "propositions": [
+          "Paul Vasseur",
+          "Stéphane Lecat",
+          "Camille Lacourt",
+          "Julien Sauvage"
+        ],
+        "réponse": "Camille Lacourt",
+        "anecdote": "À 32 ans, le jeune homme a déjà plein de projets : restaurant-bar/cocktail à Paris et ambassadeur pour la marque Clarins."
+      },
+      {
+        "id": 5,
+        "question": "Quelle héroïne de « Jules et Jim » nous a quittés à l'âge de 89 ans ?",
+        "propositions": [
+          "Suzanne Flon",
+          "Jeanne Moreau",
+          "Annie Girardot",
+          "Danielle Darrieux"
+        ],
+        "réponse": "Jeanne Moreau",
+        "anecdote": "Jeanne Moreau laisse derrière elle de nombreux films cultes dont « Jules et Jim » ou « Le Journal d'une femme de chambre »."
+      },
+      {
+        "id": 6,
+        "question": "Durant quel festival 22 000 personnes ont-elles dû être évacuées suite à un incendie ?",
+        "propositions": [
+          "Bassleader",
+          "Tomorrowland",
+          "Tekknozid",
+          "Qlimax"
+        ],
+        "réponse": "Tomorrowland",
+        "anecdote": "Une enquête fut lancée pour déterminer les causes de l'incendie, dû à des problèmes techniques selon les organisateurs."
+      },
+      {
+        "id": 7,
+        "question": "Quel ex d'Halle Berry a été shooté en 2017 pour une campagne Mango Man ?",
+        "propositions": [
+          "Mathieu Amalric",
+          "Olivier Martinez",
+          "Yvan Attal",
+          "Mathieu Kassovitz"
+        ],
+        "réponse": "Olivier Martinez",
+        "anecdote": "Une très belle campagne Mango Man qui réunit aussi les tops Freja Beha et Amber Valletta, shootées par le talentueux Mario Sorrenti."
+      },
+      {
+        "id": 8,
+        "question": "Combien de bougies Carla Bruni-Sarkozy a-t-elle soufflé en 2017 ?",
+        "propositions": [
+          "30",
+          "40",
+          "50",
+          "60"
+        ],
+        "réponse": "50",
+        "anecdote": "Carla Bruni a posé et joué dans plusieurs publicités, notamment pour le joaillier Bulgari et la marque automobile Ford."
+      },
+      {
+        "id": 9,
+        "question": "Que fait Khloé Kardashian pour dévoiler sans retenue un fessier parfait ?",
+        "propositions": [
+          "Elle le secoue",
+          "Elle le brosse",
+          "Elle le frappe",
+          "Elle le maquille"
+        ],
+        "réponse": "Elle le maquille",
+        "anecdote": "Khloé Kardashian a lancé avec ses soeurs plusieurs collections de vêtements, de maquillage et de produits de beauté."
+      },
+      {
+        "id": 10,
+        "question": "Quel acteur du film « Dunkerque » a la particularité de posséder quatre tétons ?",
+        "propositions": [
+          "Harry Styles",
+          "Liam Payne",
+          "Niall Horan",
+          "Zayn Malik"
+        ],
+        "réponse": "Harry Styles",
+        "anecdote": "À la suite d'une suggestion de la chanteuse Nicole Scherzinger, Harry Styles formera le groupe One Direction."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "De quel chanteur de rhythm and blues Brad Pitt est-il un fan incontesté ?",
+        "propositions": [
+          "John Legend",
+          "Chris Brown",
+          "Franck Ocean",
+          "Johnny Gill"
+        ],
+        "réponse": "Franck Ocean",
+        "anecdote": "Selon certaines rumeurs, la musique de Franck Ocean aurait même aidé Brad Pitt à se remettre de son divorce avec Angélina Jolie."
+      },
+      {
+        "id": 12,
+        "question": "Quel fils de la chanteuse Sheila nous a quittés le 8 juillet 2017 ?",
+        "propositions": [
+          "Christian Coudray",
+          "Ludovic Chancel",
+          "Paul Chenailler",
+          "Noël Castelain"
+        ],
+        "réponse": "Ludovic Chancel",
+        "anecdote": "Ludovic, le fils de la chanteuse Sheila, voulait quitter sa compagne Sylvie Ortega Munos, peu de temps avant sa mort."
+      },
+      {
+        "id": 13,
+        "question": "Quelle actrice a vomi durant une représentation théâtrale d'Olivia Wilde ?",
+        "propositions": [
+          "Natalie Portman",
+          "Emma Stone",
+          "Jennifer Lawrence",
+          "Cate Blanchett"
+        ],
+        "réponse": "Jennifer Lawrence",
+        "anecdote": "La cause de cette réaction émotive : des scènes de tortures, des scènes de violence où toutes les libertés de penser sont réprimées."
+      },
+      {
+        "id": 14,
+        "question": "Quelle comédienne a accouché d'un petit Souleymane en juillet 2017 ?",
+        "propositions": [
+          "Naidra Ayadi",
+          "Leïla Bekhti",
+          "Géraldine Nakache",
+          "Zita Hanrot"
+        ],
+        "réponse": "Leïla Bekhti",
+        "anecdote": "La comédienne d'« Un Prophète », de « Tout ce qui brille » et de « La Source des femmes » est mariée avec Tahar Rahim."
+      },
+      {
+        "id": 15,
+        "question": "Quel mannequin et chérie de Vincent Cassel a publié des photos torrides en 2017 ?",
+        "propositions": [
+          "Tina Kunakey",
+          "Claudia Romani",
+          "Miriam Leone",
+          "Valeria Cavalli"
+        ],
+        "réponse": "Tina Kunakey",
+        "anecdote": "Tina Kunakey, de son vrai nom Tina Kunakey Di Vita, née le 5 avril 1997, est une top modèle togolaise et italienne."
+      },
+      {
+        "id": 16,
+        "question": "Laquelle de ces célébrités a déclaré en juillet 2017 avoir peur de vomir ?",
+        "propositions": [
+          "Tal",
+          "Alizée",
+          "Lorie",
+          "Shy'm"
+        ],
+        "réponse": "Shy'm",
+        "anecdote": "Shy'm a livré ses secrets dans le magazine Biba et avoué notamment une de ses plus grandes craintes : l'émétophobie."
+      },
+      {
+        "id": 17,
+        "question": "À qui Jean-Pascal Lacoste a-t-il fait une déclaration d'amour en juillet 2017 ?",
+        "propositions": [
+          "Delphine Tellier",
+          "Cindy Bruna",
+          "Audrey Marnay",
+          "Sigrid Agren"
+        ],
+        "réponse": "Delphine Tellier",
+        "anecdote": "En janvier 2001, Jean-Pascal Lacoste a été sélectionné par TF1 pour participer à la première édition de « Star Academy »."
+      },
+      {
+        "id": 18,
+        "question": "Quelle chroniqueuse de « Téléfoot » a dit oui à son chéri Jean-Luc Guizonne ?",
+        "propositions": [
+          "Charlotte Namura",
+          "Nathalie Simon",
+          "Cécile de Ménibus",
+          "Ariane Carletti"
+        ],
+        "réponse": "Charlotte Namura",
+        "anecdote": "Charlotte Namura a été repérée par l'équipe de Téléfoot alors qu'elle faisait des chroniques sports sur une petite Web TV."
+      },
+      {
+        "id": 19,
+        "question": "Avec quel footballeur français Julia Roberts partage-t-elle une amitié étonnante ?",
+        "propositions": [
+          "Samuel Umtiti",
+          "Paul Pogba",
+          "Dimitri Payet",
+          "Moussa Sissoko"
+        ],
+        "réponse": "Paul Pogba",
+        "anecdote": "Paul Pogba a fait partie des 23 joueurs français sélectionnés par Didier Deschamps pour disputer l'Euro 2016."
+      },
+      {
+        "id": 20,
+        "question": "Quel mannequin a vu son compte Twitter bloqué par Donald Trump en 2017 ?",
+        "propositions": [
+          "Lily Aldridge",
+          "Camilla Alves",
+          "Karlie Kloss",
+          "Chrissy Teigen"
+        ],
+        "réponse": "Chrissy Teigen",
+        "anecdote": "Côté vie privée, Chrissy Teigen a rencontré le chan­teur John Legend en 2007 sur le tour­nage du clip « Stereo »."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quel pasteur fut longtemps accusé d'influencer le jeune Justin Bieber ?",
+        "propositions": [
+          "Gil Kaufman",
+          "Gary Trust",
+          "Carl Lentz",
+          "Jan Hoffman"
+        ],
+        "réponse": "Carl Lentz",
+        "anecdote": "Le chanteur de 23 ans serait devenu inséparable du pasteur Carl Lentz, au travers duquel il verrait un véritable père d'adoption."
+      },
+      {
+        "id": 22,
+        "question": "Quelle chanteuse française a déclaré avoir souffert d'une longue paralysie faciale ?",
+        "propositions": [
+          "Sheryfa Luna",
+          "Ophélie Winter",
+          "Louisy Joseph",
+          "Chimène Badi"
+        ],
+        "réponse": "Ophélie Winter",
+        "anecdote": "Au sommet de sa popularité, Ophélie Winter a partagé la vie du chanteur MC Solaar, avec qui elle collabore sur « Un jour »."
+      },
+      {
+        "id": 23,
+        "question": "Quelle chérie de David Guetta s'est déhanchée sur ses musiques durant l'été 2017 ?",
+        "propositions": [
+          "Tina Kunakey",
+          "Chrissy Teigen",
+          "Jessica Ledon",
+          "Kléofina Pnishi"
+        ],
+        "réponse": "Jessica Ledon",
+        "anecdote": "Symbole de la French Touch, David Guetta est le compositeur de l'hymne de l'Euro 2016 se déroulant en France."
+      },
+      {
+        "id": 24,
+        "question": "Quel fondateur d'Amazon est devenu le 26 juillet 2017 la première fortune mondiale ?",
+        "propositions": [
+          "Kenneth Starr",
+          "David Ho",
+          "Andrew Grove",
+          "Jeff Bezos"
+        ],
+        "réponse": "Jeff Bezos",
+        "anecdote": "Entrepreneur et investisseur américain, Jeff Bezos détrône ainsi le célèbre créateur de Microsoft Windows, Bill Gates."
+      },
+      {
+        "id": 25,
+        "question": "Quelle chanteuse country s'est tuée en rentrant d'un de ses concerts le 22 juillet 2017 ?",
+        "propositions": [
+          "Abby Nicole",
+          "Alison Krauss",
+          "Patsy Cline",
+          "Sara Carter"
+        ],
+        "réponse": "Abby Nicole",
+        "anecdote": "Après s'être produite sur scène, la jeune femme s'était rendue à une fête foraine orga­ni­sée près du lieu où elle avait chanté."
+      },
+      {
+        "id": 26,
+        "question": "Avec qui Neymar partageait-il sa vie avant son transfert au PSG ?",
+        "propositions": [
+          "Caroline Caputo",
+          "Isabeli Fontana",
+          "Flavia de Oliveira",
+          "Lais Ribeiro"
+        ],
+        "réponse": "Caroline Caputo",
+        "anecdote": "En plus de son génie footballistique, Neymar partage sa vie sentimentale avec une sublime mannequin brésilienne de 23 ans."
+      },
+      {
+        "id": 27,
+        "question": "Quel chanteur a été retrouvé pendu chez lui le 20 juillet 2017 ?",
+        "propositions": [
+          "Jonathan Davis",
+          "Wayne Static",
+          "Chester Bennington",
+          "Mitch Lucker"
+        ],
+        "réponse": "Chester Bennington",
+        "anecdote": "Le leader du groupe Linkin Park a été inhumé au cours d'une cérémonie privée dans la banlieue de Los Angeles."
+      },
+      {
+        "id": 28,
+        "question": "Quelle jolie jeune femme a été élue Miss Provence 2017 ?",
+        "propositions": [
+          "Julia Courtès",
+          "Noémie Mazella",
+          "Marine Mahiques",
+          "Kléofina Pnishi"
+        ],
+        "réponse": "Kléofina Pnishi",
+        "anecdote": "La jeune femme de 23 ans a eu la chance de faire quelques apparitions dans des séries télé, dont « Plus Belle La Vie »."
+      },
+      {
+        "id": 29,
+        "question": "Quelle chanteuse est morte électrocutée à la fin de son concert le 19 juillet 2017 ?",
+        "propositions": [
+          "Marie Espinosa",
+          "Barbara Weldens",
+          "France Cartigny",
+          "Caroline Fèvre"
+        ],
+        "réponse": "Barbara Weldens",
+        "anecdote": "À la fin de son concert, dans le cadre du Festival Léo Ferré, Barbara Weldens a été électrocutée et n'a pu être réanimée."
+      },
+      {
+        "id": 30,
+        "question": "Quelle star du PSG s'est vue dérober son alliance en juillet 2017 ?",
+        "propositions": [
+          "Thiago Motta",
+          "Thomas Meunier",
+          "Serge Aurier",
+          "Blaise Matuidi"
+        ],
+        "réponse": "Blaise Matuidi",
+        "anecdote": "Quelques jours après son mariage, la star du PSG a perdu son alliance, dérobée dans la boîte à gants de sa voiture de luxe."
+      }
+    ]
+    }
+  }
+}

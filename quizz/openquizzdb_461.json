@@ -1,0 +1,409 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",       
+  "difficulté": "3 / 5",
+  "version": 1,
+  "mise-à-jour": "2022-06-06",
+  "catégorie-nom-slogan": {
+    "fr": {
+      "catégorie": "Orthoquizz",
+      "nom": "Orthoquizz 2",
+      "slogan": "Des mots souvent difficiles à écrire"
+    },
+    "en": {
+      "catégorie": "Orthoquizz",
+      "nom": "",
+      "slogan": ""
+    },
+    "es": {
+      "catégorie": "Orthoquizz",
+      "nom": "",
+      "slogan": ""
+    },
+    "it": {
+      "catégorie": "Orthoquizz",
+      "nom": "",
+      "slogan": ""
+    },
+    "de": {
+      "catégorie": "Orthoquizz",
+      "nom": "",
+      "slogan": ""
+    },
+    "nl": {
+      "catégorie": "Orthoquizz",
+      "nom": "",
+      "slogan": ""
+    }
+  },
+  "quizz": {
+    "fr": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Quel cheval de petite taille possède souvent une crinière épaisse ?",
+        "propositions": [
+          "Ponais",
+          "Peaunai",
+          "Ponay",
+          "Poney"
+        ],
+        "réponse": "Poney",
+        "anecdote": "Selon ses normes, tout cheval de moins d'1,48 m au garrot est classé poney, afin de faciliter les compétitions officielles."
+      },
+      {
+        "id": 2,
+        "question": "Quelle expiration brusque et bruyante se fait par le nez et la bouche ?",
+        "propositions": [
+          "Éternuement",
+          "Éternument",
+          "Éternuemant",
+          "Éthernuement"
+        ],
+        "réponse": "Éternuement",
+        "anecdote": "Elle est provoquée par un mouvement subit et convulsif des muscles expirateurs en raison d'une irritation des muqueuses nasales."
+      },
+      {
+        "id": 3,
+        "question": "Quel monastère de moines est placé sous la direction d'un abbé ?",
+        "propositions": [
+          "Abbéie",
+          "Abaye",
+          "Abbaye",
+          "Abbaïe"
+        ],
+        "réponse": "Abbaye",
+        "anecdote": "L'abbé y est le supérieur tout en étant père spirituel de la communauté religieuse, suivant les indications de saint Benoît."
+      },
+      {
+        "id": 4,
+        "question": "Dans le règne animal, quel terme désigne l'absence de symétrie ?",
+        "propositions": [
+          "Asimétrie",
+          "Asymétrie",
+          "Assimétrie",
+          "Assymétrie"
+        ],
+        "réponse": "Asymétrie",
+        "anecdote": "Le crabe violoniste représente un bel exemple d'asymétrie dans le règne animal avec une de ses deux pinces démesurée (10 cm)."
+      },
+      {
+        "id": 5,
+        "question": "Quel morceau de toile grossière et résistante sert à laver les sols ?",
+        "propositions": [
+          "Serrepillaire",
+          "Serpillaire",
+          "Serpillière",
+          "Serrepillère"
+        ],
+        "réponse": "Serpillière",
+        "anecdote": "Le lavage exploite le frottement du tissu sur le sol et la mise en suspension (ou en solution) de la saleté dans l'eau."
+      },
+      {
+        "id": 6,
+        "question": "Quelle femme doit obéir aux voeux de pauvreté, chasteté et obéissance ?",
+        "propositions": [
+          "Nône",
+          "Nonne",
+          "Nônne",
+          "None"
+        ],
+        "réponse": "Nonne",
+        "anecdote": "Une nonne choisit de consacrer sa vie au service des autres ou de quitter la société afin de vivre une vie de prière et de contemplation."
+      },
+      {
+        "id": 7,
+        "question": "Quelle sorte de papier végétal est confectionné à base de plante ?",
+        "propositions": [
+          "Papyrusse",
+          "Papyrus",
+          "Papirus",
+          "Papirusse"
+        ],
+        "réponse": "Papyrus",
+        "anecdote": "Le papyrus, plante des zones humides, a été utilisé comme matière première pour fabriquer le célèbre support d'écriture de l'Antiquité."
+      },
+      {
+        "id": 8,
+        "question": "Quelle figure de style, différente d'une comparaison, est fondée sur l'analogie ?",
+        "propositions": [
+          "Métaphore",
+          "Métaforre",
+          "Métafort",
+          "Métafore"
+        ],
+        "réponse": "Métaphore",
+        "anecdote": "Une métaphore courante est un cliché : entièrement passée dans le langage, on peut la considérer comme une catachrèse."
+      },
+      {
+        "id": 9,
+        "question": "Comment la vergeoise est-elle appelée en Belgique et en Suisse ?",
+        "propositions": [
+          "Casonnade",
+          "Cassonade",
+          "Cassonnade",
+          "Casonade"
+        ],
+        "réponse": "Cassonade",
+        "anecdote": "La cassonade est un sucre non raffiné provenant généralement du sirop résiduel de la cristallisation du sucre, utilisé dans les spéculoos."
+      },
+      {
+        "id": 10,
+        "question": "Quel rêve est souvent la cause d'une forte émotion négative ?",
+        "propositions": [
+          "Cauchmar",
+          "Cauchemar",
+          "Cauchemard",
+          "Cauchemarre"
+        ],
+        "réponse": "Cauchemar",
+        "anecdote": "Les rêveurs se réveillent souvent dans un état de détresse, et peuvent avoir du mal à retrouver le sommeil durant un certain temps."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Quel art est apparu peu après l'invention de la peinture aérosol en bombe ?",
+        "propositions": [
+          "Graffiti",
+          "Graffitti",
+          "Graphiti",
+          "Grafitti"
+        ],
+        "réponse": "Graffiti",
+        "anecdote": "Dans la plupart des pays, cette activité, quelle que soit la nature de la surface ou l'idée véhiculée, est considérée comme illégale."
+      },
+      {
+        "id": 12,
+        "question": "Quelle discipline peut être comparée à la science du son ?",
+        "propositions": [
+          "Aquoustique",
+          "Achoustique",
+          "Acoustique",
+          "Accoustique"
+        ],
+        "réponse": "Acoustique",
+        "anecdote": "L'acoustique comprend de nombreuses ramifications comme l'électroacoustique, l'acoustique musicale et l'acoustique architecturale."
+      },
+      {
+        "id": 13,
+        "question": "Que risque de vous vendre un marchand ambulant avec des objets de peu de valeur ?",
+        "propositions": [
+          "Kaamelott",
+          "Camelotte",
+          "Cammelote",
+          "Camelote"
+        ],
+        "réponse": "Camelote",
+        "anecdote": "Crieur de journaux dans la rue, au Canada et au Québec, un camelot est aujourd'hui une personne qui livre les journaux à domicile."
+      },
+      {
+        "id": 14,
+        "question": "Dans quelle petite marmite individuelle peut-on servir un ragoût ?",
+        "propositions": [
+          "Casolète",
+          "Cassolette",
+          "Cassolete",
+          "Casolette"
+        ],
+        "réponse": "Cassolette",
+        "anecdote": "En orfèvrerie, il s'agit d'un pendentif, bijou creux permettant de contenir du parfum, des souvenirs, des images mais aussi des photos."
+      },
+      {
+        "id": 15,
+        "question": "Quelle pâtisserie est confectionnée avec une pâte légère cuite dans un fer ?",
+        "propositions": [
+          "Gaufre",
+          "Gauffre",
+          "Goffre",
+          "Gofre"
+        ],
+        "réponse": "Gaufre",
+        "anecdote": "C'est un mets typique de la Belgique, des Pays-Bas, du Nord de la France, des régions alpines d'Italie et de Suisse romande."
+      },
+      {
+        "id": 16,
+        "question": "Quel mouvement de cheveux se dresse au-dessus du front de Tintin ?",
+        "propositions": [
+          "Houppète",
+          "Houpète",
+          "Houpette",
+          "Houppette"
+        ],
+        "réponse": "Houppette",
+        "anecdote": "Tintin est un personnage de fiction créé par le dessinateur belge Hergé dans la série de bandes dessinées « Les Aventures de Tintin »."
+      },
+      {
+        "id": 17,
+        "question": "Que provoque le débordement d'un cours d'eau, en crue puis en décrue ?",
+        "propositions": [
+          "Inondassion",
+          "Innondation",
+          "Inondacion",
+          "Inondation"
+        ],
+        "réponse": "Inondation",
+        "anecdote": "L'inondation est un des principaux risques naturels dans le monde et probablement la catastrophe naturelle causant le plus de dégât."
+      },
+      {
+        "id": 18,
+        "question": "Quelle attitude est portée par un idéal authentiquement altruiste ?",
+        "propositions": [
+          "Phylanthropie",
+          "Filantropie",
+          "Philanthropie",
+          "Philantropie"
+        ],
+        "réponse": "Philanthropie",
+        "anecdote": "Le terme désigne en premier lieu une attitude de bienveillance doublée de bienfaisance de certaines personnes à l'égard d'autres personnes."
+      },
+      {
+        "id": 19,
+        "question": "Dans quelle friandise à mâcher ajoute-t-on des arômes et parfums alimentaires ?",
+        "propositions": [
+          "Chwing-gum",
+          "Chewingomme",
+          "Chewing-gomme",
+          "Chewing-gum"
+        ],
+        "réponse": "Chewing-gum",
+        "anecdote": "C'est Thomas Adams qui, en mélangeant du latex avec de la résine et du sirop, commercialisa en 1872 les premiers chewing-gums."
+      },
+      {
+        "id": 20,
+        "question": "Quelle structure permet de descendre en glissant d'un point à un autre ?",
+        "propositions": [
+          "Toboggan",
+          "Tobogant",
+          "Tobogan",
+          "Toboggant"
+        ],
+        "réponse": "Toboggan",
+        "anecdote": "Cette structure peut être constituée de diverses matières et destinée à des usages divers, tels jeu ou l'évacuation d'urgence de personnes."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quel mot est employé pour qualifier les premiers habitants de certains territoires ?",
+        "propositions": [
+          "Arborigène",
+          "Aborigène",
+          "Abaurigène",
+          "Aborygène"
+        ],
+        "réponse": "Aborigène",
+        "anecdote": "L'acception commune du mot aborigène renvoie à celui dont les ancêtres sont les premiers habitants connus de sa terre natale."
+      },
+      {
+        "id": 22,
+        "question": "Quel refus collectif empêche une entreprise d'acheter ou de vendre ses produits ?",
+        "propositions": [
+          "Boycotte",
+          "Boycote",
+          "Boycott",
+          "Boycot"
+        ],
+        "réponse": "Boycott",
+        "anecdote": "Le terme boycott, à ne pas confondre avec l'embargo, peut aussi s'utiliser pour désigner le refus collectif de participer à des élections."
+      },
+      {
+        "id": 23,
+        "question": "Quelle attraction de type manège consiste en une plateforme tournante avec des sièges ?",
+        "propositions": [
+          "Carousel",
+          "Caroussel",
+          "Carrousel",
+          "Carousselle"
+        ],
+        "réponse": "Carrousel",
+        "anecdote": "Ces sièges prennent traditionnellement la forme de chevaux en bois (ou autres matériaux) ou d'autres animaux comme la licorne."
+      },
+      {
+        "id": 24,
+        "question": "Comment qualifie-t-on une disposition en un arrangement de cinq unités ?",
+        "propositions": [
+          "Quinconce",
+          "Quinquonce",
+          "Quinquonse",
+          "Quinconsse"
+        ],
+        "réponse": "Quinconce",
+        "anecdote": "Dans cette disposition répétitive d'éléments, chaque ligne est décalée de la moitié d'un élément par rapport à la ligne qui la précède."
+      },
+      {
+        "id": 25,
+        "question": "Quel type particulier de source d'eau chaude peut jaillir par intermittence ?",
+        "propositions": [
+          "Geysère",
+          "Geysair",
+          "Gésair",
+          "Geyser"
+        ],
+        "réponse": "Geyser",
+        "anecdote": "Le terme geyser provient du nom du plus célèbre geyser d'Islande, nommé Geysir, situé à Haukadalur, dans le cercle d'or au sud de l'île."
+      },
+      {
+        "id": 26,
+        "question": "Quel est l'art de fabriquer des objets de parure via des pierres précieuses ?",
+        "propositions": [
+          "Joaïllerie",
+          "Joaillerie",
+          "Jeoaillerie",
+          "Geoaillerie"
+        ],
+        "réponse": "Joaillerie",
+        "anecdote": "Cette mise en valeur est réalisée dans un bijou, ce bijou en soi pouvant par la suite être lui aussi qualifié de joyau, par extension impropre."
+      },
+      {
+        "id": 27,
+        "question": "Quel terme est synonyme d'une thrombose veineuse profonde ?",
+        "propositions": [
+          "Phlébite",
+          "Flébite",
+          "Phlébithe",
+          "Flébithe"
+        ],
+        "réponse": "Phlébite",
+        "anecdote": "Elle est due à la formation d'un caillot (thrombus) dans le réseau veineux profond des membres inférieurs (thrombose veineuse)."
+      },
+      {
+        "id": 28,
+        "question": "Quel terme désigne un sentiment de mépris ou d'hostilité à l'égard des femmes ?",
+        "propositions": [
+          "Misogynie",
+          "Mysogynie",
+          "Misogignie",
+          "Mysoginie"
+        ],
+        "réponse": "Misogynie",
+        "anecdote": "Dans certains cas, la misogynie peut se manifester par des comportements violents de nature verbale ou physique, voire sexuelle."
+      },
+      {
+        "id": 29,
+        "question": "Quel est le stade de développement intermédiaire entre la larve et le papillon ?",
+        "propositions": [
+          "Chrisalyde",
+          "Chrysalide",
+          "Crysalide",
+          "Crisalyde"
+        ],
+        "réponse": "Chrysalide",
+        "anecdote": "Durant ce stade, le lépidoptère ne peut se déplacer ni se nourrir, et la structure de son corps se réorganise en profondeur."
+      },
+      {
+        "id": 30,
+        "question": "Quel tracé sinueux est destiné à perdre celui qui cherche à s'y déplacer ?",
+        "propositions": [
+          "Labyrinte",
+          "Labirynthe",
+          "Labirynte",
+          "Labyrinthe"
+        ],
+        "réponse": "Labyrinthe",
+        "anecdote": "Le mot désigne dans la mythologie grecque une série complexe de galeries construites par Dédale pour enfermer le Minotaure."
+      }
+    ]
+    }
+  }
+}

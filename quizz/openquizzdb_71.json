@@ -1,0 +1,409 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",       
+  "difficulté": "4 / 5",
+  "version": 1,
+  "mise-à-jour": "2022-04-30",
+  "catégorie-nom-slogan": {
+    "fr": {
+      "catégorie": "Sciences",
+      "nom": "Chimie",
+      "slogan": "Composition et réactions de la matière"
+    },
+    "en": {
+      "catégorie": "Sciences",
+      "nom": "Chemistry",
+      "slogan": "Composition and reactions of matter"
+    },
+    "es": {
+      "catégorie": "Ciencias",
+      "nom": "Química",
+      "slogan": "Composición y reacciones de la materia"
+    },
+    "it": {
+      "catégorie": "Scienze",
+      "nom": "Chimica",
+      "slogan": "Composizione e reazioni della materia"
+    },
+    "de": {
+      "catégorie": "Wissenschaft",
+      "nom": "Chemie",
+      "slogan": "Zusammensetzung und Reaktionen der Materie"
+    },
+    "nl": {
+      "catégorie": "Sciences",
+      "nom": "Chemie",
+      "slogan": "Samenstelling en reacties van materie"
+    }
+  },
+  "quizz": {
+    "fr": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Dans un laboratoire de chimie, quel nom porte un récipient en verre de forme sphérique ?",
+        "propositions": [
+          "Éprouvette",
+          "Ballon",
+          "Pipette",
+          "Burette"
+        ],
+        "réponse": "Ballon",
+        "anecdote": "Le ballon est très utilisé pour conduire des réactions chimiques en chimie organique."
+      },
+      {
+        "id": 2,
+        "question": "Quel est le symbole chimique du magnésium, de numéro atomique 12 ?",
+        "propositions": [
+          "Mg",
+          "Ma",
+          "Mn",
+          "Mi"
+        ],
+        "réponse": "Mg",
+        "anecdote": "Le magnésium est le huitième élément le plus abondant de la croûte terrestre et le troisième composant des sels dissous en mer."
+      },
+      {
+        "id": 3,
+        "question": "Quel instrument permet de créer le vide dans une cloche en verre ?",
+        "propositions": [
+          "Tube axial",
+          "Pompe à air",
+          "Moulin à eau",
+          "Turbine à gaz"
+        ],
+        "réponse": "Pompe à air",
+        "anecdote": "C'est le physicien allemand Otto von Guericke qui, en étudiant les propriétés de l'air et la création du vide, a inventé la pompe à air."
+      },
+      {
+        "id": 4,
+        "question": "Quel élément chimique a pour symbole Na et pour numéro atomique 11 ?",
+        "propositions": [
+          "Sélénium ",
+          "Sodium",
+          "Soufre",
+          "Silicium"
+        ],
+        "réponse": "Sodium",
+        "anecdote": "Le sodium est un métal mou et argenté, qui appartient aux métaux alcalins."
+      },
+      {
+        "id": 5,
+        "question": "Quelle scientifique française a été lauréate du prix Nobel de Physique et de Chimie ?",
+        "propositions": [
+          "Suzanne Fortier",
+          "Marie Curie",
+          "Mary Archer",
+          "Susan Solomon"
+        ],
+        "réponse": "Marie Curie",
+        "anecdote": "Marie Curie est la seule femme parmi tous les lauréats du Nobel à avoir été récompensée dans deux domaines scientifiques distincts."
+      },
+      {
+        "id": 6,
+        "question": "Quel est le symbole chimique du fer, présent dans la nature sous forme pure ?",
+        "propositions": [
+          "F",
+          "Fl",
+          "Fe",
+          "Fr"
+        ],
+        "réponse": "Fe",
+        "anecdote": "Le fer était connu dès le chalcolithique à travers les météorites ferreuses, et sa métallurgie demeura longtemps confidentielle."
+      },
+      {
+        "id": 7,
+        "question": "Quel paramètre permet de déterminer si un milieu est acide, neutre ou basique ?",
+        "propositions": [
+          "La constante",
+          "La puissance",
+          "La base",
+          "Le pH"
+        ],
+        "réponse": "Le pH",
+        "anecdote": "Les produits plus acides que l'acide sulfurique à 100 % sont qualifiés de superacides."
+      },
+      {
+        "id": 8,
+        "question": "Quel élément chimique, le plus commun des halogènes, a pour symbole « Cl » ?",
+        "propositions": [
+          "Le carbone",
+          "Le calcium",
+          "Le césium",
+          "Le chlore"
+        ],
+        "réponse": "Le chlore",
+        "anecdote": "Certains virus (norovirus par exemple), certaines bactéries ou les biofilms peuvent développer une certaine résistance au chlore."
+      },
+      {
+        "id": 9,
+        "question": "Quel métal en fusion pouvez-vous tenir dans le creux de la main ?",
+        "propositions": [
+          "Iridium",
+          "Platine",
+          "Mercure",
+          "Manganèse"
+        ],
+        "réponse": "Mercure",
+        "anecdote": "Le mercure est le seul métal se présentant sous forme liquide dans les conditions normales de température et de pression."
+      },
+      {
+        "id": 10,
+        "question": "Quelle est la formule chimique du sel alimentaire ou sel de cuisine ?",
+        "propositions": [
+          "CaCl",
+          "SlCl2",
+          "CaCl2",
+          "NaCl"
+        ],
+        "réponse": "NaCl",
+        "anecdote": "Le sel de table ou sel alimentaire est composé essentiellement de chlorure de sodium."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Quel élément chimique est représenté par le symbole B ?",
+        "propositions": [
+          "Le bore",
+          "Le brome",
+          "Le bismuth",
+          "Le benzène"
+        ],
+        "réponse": "Le bore",
+        "anecdote": "Le bore a la résistance à la traction la plus élevée de tous les éléments connus."
+      },
+      {
+        "id": 12,
+        "question": "Quel gaz a une odeur suffocante très désagréable et est extrêmement toxique ?",
+        "propositions": [
+          "Le césium",
+          "Le brome",
+          "Le fluor",
+          "Le chlore"
+        ],
+        "réponse": "Le chlore",
+        "anecdote": "Le chlore est abondant dans la nature, son dérivé le plus important est le « sel de table » ou chlorure de sodium (NaCl)."
+      },
+      {
+        "id": 13,
+        "question": "Quel élément chimique porte un nom dérivé du mot latin « silex » ?",
+        "propositions": [
+          "Le silicium",
+          "Le scandium",
+          "Le soufre",
+          "Le sodium"
+        ],
+        "réponse": "Le silicium",
+        "anecdote": "Le silicium est l'élément le plus abondant dans la croûte terrestre après l'oxygène."
+      },
+      {
+        "id": 14,
+        "question": "Quel est le symbole chimique du potassium, d'aspect blanc métallique ?",
+        "propositions": [
+          "P",
+          "T",
+          "O",
+          "K"
+        ],
+        "réponse": "K",
+        "anecdote": "Le potassium s'oxyde rapidement au contact de l'air et réagit violemment avec l'eau."
+      },
+      {
+        "id": 15,
+        "question": "Outre l'hydrogène, quel élément la chimie organique étudie-t-elle ?",
+        "propositions": [
+          "Carbone",
+          "Hélium",
+          "Calcium",
+          "Azote"
+        ],
+        "réponse": "Carbone",
+        "anecdote": "La chimie organique étudie leur structure, leurs propriétés, leur composition et leurs réactions."
+      },
+      {
+        "id": 16,
+        "question": "En chimie, que signifie le pH qui mesure l'acidité ou la basicité d'une solution ?",
+        "propositions": [
+          "Pouvoir hirsute",
+          "Particule hydrogène",
+          "Potentiel hydrogène",
+          "Processus halogène"
+        ],
+        "réponse": "Potentiel hydrogène",
+        "anecdote": "Il existe de nombreuses façons de mesurer l'acidité, et on utilise d'ailleurs fréquemment des indicateurs de pH."
+      },
+      {
+        "id": 17,
+        "question": "Quel est le symbole chimique du sodium, qui appartient aux métaux alcalins ?",
+        "propositions": [
+          "Um",
+          "Na",
+          "So",
+          "Sd"
+        ],
+        "réponse": "Na",
+        "anecdote": "On ne trouve pas le sodium à l'état de corps pur dans la nature, mais il est très abondant sous forme de composés."
+      },
+      {
+        "id": 18,
+        "question": "De quel élément chimique proviennent à la fois la charbon et le diamant ?",
+        "propositions": [
+          "Le cuivre",
+          "Le cobalt",
+          "Le chrome",
+          "Le carbone"
+        ],
+        "réponse": "Le carbone",
+        "anecdote": "Le carbone existe sous forme de sédiments, charbon, pétrole, et également sous sa forme pure graphite, le diamant."
+      },
+      {
+        "id": 19,
+        "question": "Quelle est la formule chimique du dioxyde de carbone ?",
+        "propositions": [
+          "CO2",
+          "H2O",
+          "NaCl",
+          "C3P0"
+        ],
+        "réponse": "CO2",
+        "anecdote": "Le dioxyde de carbone est communément appelé gaz carbonique ou anhydride carbonique."
+      },
+      {
+        "id": 20,
+        "question": "Que signifie le E de E=MC2, exprimé en 1905 par Einstein et sa relativité restreinte ?",
+        "propositions": [
+          "Élément",
+          "Écart",
+          "Énergie",
+          "Effet"
+        ],
+        "réponse": "Énergie",
+        "anecdote": "L'équation fait partie des apports que certains contestent à Einstein dans le cadre de la controverse sur la paternité de la relativité."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Combien y a-t-il de périodes dans le tableau périodique de Mendeleïev ?",
+        "propositions": [
+          "Sept",
+          "Cinq",
+          "Trois",
+          "Neuf"
+        ],
+        "réponse": "Sept",
+        "anecdote": "Son invention est attribuée au chimiste Mendeleïev, qui construisit en 1869 une table différente de celle qu'on utilise aujourd'hui."
+      },
+      {
+        "id": 22,
+        "question": "De ces éléments chimiques, lequel comporte une voyelle dans son symbole ?",
+        "propositions": [
+          "Rubidium",
+          "Césium",
+          "Tellure",
+          "Mercure"
+        ],
+        "réponse": "Tellure",
+        "anecdote": "Le tellure a été découvert en 1782 par Franz-Joseph Müller von Reichenstein dans des minerais d'or de Transylvanie."
+      },
+      {
+        "id": 23,
+        "question": "Quel dosage colorimétrique permet de déterminer la concentration en phosphore ?",
+        "propositions": [
+          "Méthode de Kjeldahl",
+          "Méthode de Briggs",
+          "Méthode de Wijs",
+          "Méthode de Bertrand"
+        ],
+        "réponse": "Méthode de Briggs",
+        "anecdote": "L'intensité de la coloration du complexe est proportionnelle à la concentration en phosphate."
+      },
+      {
+        "id": 24,
+        "question": "Quel chimiste québécois a été un précurseur dans le domaine de la chimie quantique ?",
+        "propositions": [
+          "Léon Lortie",
+          "Camille Sandorfy",
+          "Bernard Cloutier",
+          "Christian Roy"
+        ],
+        "réponse": "Camille Sandorfy",
+        "anecdote": "Certaines de ses études spectroscopiques aident à comprendre des processus biologiques."
+      },
+      {
+        "id": 25,
+        "question": "Quel équipement de labo protège une substance des environnements humides ?",
+        "propositions": [
+          "Bécher",
+          "Manchon",
+          "Dessiccateur",
+          "Décanteur"
+        ],
+        "réponse": "Dessiccateur",
+        "anecdote": "En fonction de l'usage qui en est fait, la verrerie de laboratoire est fabriquée dans différents types de verres ou de matières plastiques."
+      },
+      {
+        "id": 26,
+        "question": "Quel métal brûle avec une flamme blanche aveuglante ?",
+        "propositions": [
+          "Le baryum",
+          "Le radium",
+          "Le calcium",
+          "Le magnésium"
+        ],
+        "réponse": "Le magnésium",
+        "anecdote": "Le magnésium est le huitième élément le plus abondant de la croûte terrestre."
+      },
+      {
+        "id": 27,
+        "question": "Que se passe-t-il si vous mettez un peu de vinaigre sur un oeuf cru ?",
+        "propositions": [
+          "Rien",
+          "Il vire au rouge",
+          "Il durcit",
+          "Il coagule"
+        ],
+        "réponse": "Il coagule",
+        "anecdote": "Le mot « vinaigre » provient du mot « vin-aigre », le vin étant l'une des boissons alcoolisées les plus connues pour élaborer un vinaigre."
+      },
+      {
+        "id": 28,
+        "question": "Dans le lait, quelle protéine permet aux graisses de se mélanger au liquide ?",
+        "propositions": [
+          "La fibrine",
+          "La caséine",
+          "La lectine",
+          "La gélatine"
+        ],
+        "réponse": "La caséine",
+        "anecdote": "Dans la fabrication du fromage, la caséine précipite après adjonction d'acide ou de présure."
+      },
+      {
+        "id": 29,
+        "question": "Quelle est la formule chimique du méthane, découvert et isolé par Alessandro Volta ?",
+        "propositions": [
+          "C3P0",
+          "H2O",
+          "CH4",
+          "NaCl"
+        ],
+        "réponse": "CH4",
+        "anecdote": "Il s'agit du plus simple des hydrocarbures, et plus précisément du premier terme de la famille des alcanes."
+      },
+      {
+        "id": 30,
+        "question": "Quel atome possède des propriétés proches de celles du carbone ?",
+        "propositions": [
+          "Le césium",
+          "Le silicium",
+          "Le soufre",
+          "Le bismuth"
+        ],
+        "réponse": "Le silicium",
+        "anecdote": "Le silicium est l'élément le plus abondant dans la croûte terrestre après l'oxygène, soit 25,7 % de sa masse."
+      }
+    ]
+    }
+  }
+}

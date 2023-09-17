@@ -1,0 +1,409 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",       
+  "difficulté": "2 / 5",
+  "version": 1,
+  "mise-à-jour": "2022-01-15",
+  "catégorie-nom-slogan": {
+    "fr": {
+      "catégorie": "Mots croisés",
+      "nom": "Mots croisés",
+      "slogan": "Petites énigmes linguistiques"
+    },
+    "en": {
+      "catégorie": "Crossword",
+      "nom": "Crossword",
+      "slogan": "Little linguistic enigmas"
+    },
+    "es": {
+      "catégorie": "Crucigrama",
+      "nom": "Crucigrama",
+      "slogan": "Pequeños enigmas lingüísticos"
+    },
+    "it": {
+      "catégorie": "Cruciverba",
+      "nom": "Cruciverba",
+      "slogan": "Piccoli enigmi linguistici"
+    },
+    "de": {
+      "catégorie": "Kreuzworträtsel",
+      "nom": "Kreuzworträtsel",
+      "slogan": "Kleine Sprachrätsel"
+    },
+    "nl": {
+      "catégorie": "Kruiswoordraadsel",
+      "nom": "Kruiswoordraadsel",
+      "slogan": "Kleine taalkundige raadsels"
+    }
+  },
+  "quizz": {
+    "fr": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Abri de tortue, mot de huit lettres commençant par un C ?",
+        "propositions": [
+          "Cabestan",
+          "Calandre",
+          "Cachette",
+          "Carapace"
+        ],
+        "réponse": "Carapace",
+        "anecdote": "La carapace est une section dorsale de l'exosquelette de divers arthropodes ou d'exosquelette partiel pour la tortue."
+      },
+      {
+        "id": 2,
+        "question": "Personnage central, mot de cinq lettres commençant par un H ?",
+        "propositions": [
+          "Huron",
+          "Héros",
+          "Harem",
+          "Hayon"
+        ],
+        "réponse": "Héros",
+        "anecdote": "Les héros et les héroïnes sont des personnages réels ou fictifs de l'histoire, exemplaires de la mythologie humaine."
+      },
+      {
+        "id": 3,
+        "question": "Il nous transporte, mot de huit lettres commençant par un V ?",
+        "propositions": [
+          "Vagabond",
+          "Vivarium",
+          "Volatile",
+          "Véhicule"
+        ],
+        "réponse": "Véhicule",
+        "anecdote": "Un véhicule est le plus souvent un moyen de transport motorisé, mais sa finalité première n'est pas toujours le transport."
+      },
+      {
+        "id": 4,
+        "question": "Homme de soins, mot de sept lettres commençant par un M ?",
+        "propositions": [
+          "Médecin",
+          "Microbe",
+          "Morveux",
+          "Malabar"
+        ],
+        "réponse": "Médecin",
+        "anecdote": "Un médecin est un professionnel de la santé titulaire, en France, d'un diplôme d'État de docteur en médecine."
+      },
+      {
+        "id": 5,
+        "question": "Défense de homard, mot de cinq lettres commençant par un P ?",
+        "propositions": [
+          "Plume",
+          "Paire",
+          "Pince",
+          "Pulpe"
+        ],
+        "réponse": "Pince",
+        "anecdote": "Le homard se distingue de la langouste par la présence de pinces imposantes et par une carapace moins épineuse."
+      },
+      {
+        "id": 6,
+        "question": "Chacun a le sien, mot de trois lettres commençant par un N ?",
+        "propositions": [
+          "Nul",
+          "Nef",
+          "Nid",
+          "Nom"
+        ],
+        "réponse": "Nom",
+        "anecdote": "Le nom est un mot ou un groupe de mots servant à désigner des êtres, des choses, des concepts, des notions et des lieux."
+      },
+      {
+        "id": 7,
+        "question": "L'enseignement y est supérieur, mot de dix lettres commençant par un U ?",
+        "propositions": [
+          "Utilitaire",
+          "Usurpation",
+          "Urographie",
+          "Université"
+        ],
+        "réponse": "Université",
+        "anecdote": "Cet établissement d'enseignement supérieur est destiné à la transmission de connaissances entre professeurs et étudiants."
+      },
+      {
+        "id": 8,
+        "question": "Liquide de vipère, mot de cinq lettres commençant par un V ?",
+        "propositions": [
+          "Verge",
+          "Venin",
+          "Valve",
+          "Vigne"
+        ],
+        "réponse": "Venin",
+        "anecdote": "On appelle venin toute substance toxique produite par des animaux et destinée à tuer ou paralyser leurs proies."
+      },
+      {
+        "id": 9,
+        "question": "Beau poil, mot de huit lettres commençant par un F ?",
+        "propositions": [
+          "Fourrure",
+          "Fermière",
+          "Faisceau",
+          "Finition"
+        ],
+        "réponse": "Fourrure",
+        "anecdote": "Les fourrures traitées par l'Homme puis commercialisées proviennent le plus souvent de mammifères sauvages ou d'élevage."
+      },
+      {
+        "id": 10,
+        "question": "Toujours à la noce, mot de sept lettres commençant par un M ?",
+        "propositions": [
+          "Moulure",
+          "Minerai",
+          "Macaque",
+          "Mariage"
+        ],
+        "réponse": "Mariage",
+        "anecdote": "Le mariage est une union conjugale contractuelle à durée illimitée, reconnue par une institution juridique ou religieuse."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Est nécessaire au canotier, mot de six lettres commençant par un A ?",
+        "propositions": [
+          "Avocat",
+          "Acajou",
+          "Amende",
+          "Aviron"
+        ],
+        "réponse": "Aviron",
+        "anecdote": "Aviron désigne le sport du canotage, sport nautique dont le principe est de propulser une embarcation à l'aide de pagaies."
+      },
+      {
+        "id": 12,
+        "question": "Rondelle de caoutchouc, mot de sept lettres commençant par un R ?",
+        "propositions": [
+          "Rhizome",
+          "Ressort",
+          "Récolte",
+          "Rustine"
+        ],
+        "réponse": "Rustine",
+        "anecdote": "Une rustine est une petite pièce de caoutchouc destinée à obturer un trou sur une chambre à air ou tout autre objet gonflable."
+      },
+      {
+        "id": 13,
+        "question": "Partenaire particulière, mot de six lettres commençant par un A ?",
+        "propositions": [
+          "Annexe",
+          "Amante",
+          "Asthme",
+          "Abysse"
+        ],
+        "réponse": "Amante",
+        "anecdote": "Amant est un nom commun qui désigne une personne qui aime, mais qui peut être féminisé par le terme maîtresse (ou amante)."
+      },
+      {
+        "id": 14,
+        "question": "Animal très changeant, mot de huit lettres commençant par un C ?",
+        "propositions": [
+          "Caméléon",
+          "Concubin",
+          "Cervelet",
+          "Champion"
+        ],
+        "réponse": "Caméléon",
+        "anecdote": "Le caméléon se caractérise par la mobilité indépendante de ses yeux, sa langue protractile et sa capacité à changer de couleur."
+      },
+      {
+        "id": 15,
+        "question": "Elle coupe bien, mot de huit lettres commençant par un I ?",
+        "propositions": [
+          "Identité",
+          "Instance",
+          "Incisive",
+          "Infinité"
+        ],
+        "réponse": "Incisive",
+        "anecdote": "Caractérisées par une couronne aplatie à bord libre tranchant, les incisives ont également un rôle esthétique important."
+      },
+      {
+        "id": 16,
+        "question": "Plante qui ne s'arrose pas, mot de cinq lettres commençant par un A ?",
+        "propositions": [
+          "Algue",
+          "Alèse",
+          "Anode",
+          "Agape"
+        ],
+        "réponse": "Algue",
+        "anecdote": "Les algues et leur biodiversité constituent la base principale des chaînes alimentaires des eaux douces, saumâtres et marines."
+      },
+      {
+        "id": 17,
+        "question": "Sale affaire, mot de huit lettres commençant par un S ?",
+        "propositions": [
+          "Sarrasin",
+          "Scandale",
+          "Surprise",
+          "Sabotage"
+        ],
+        "réponse": "Scandale",
+        "anecdote": "Le sens contemporain de scandale est une affaire retentissante soulevant l'indignation de l'opinion publique."
+      },
+      {
+        "id": 18,
+        "question": "Elles sont liquides, mot de huit lettres commençant par un B ?",
+        "propositions": [
+          "Binettes",
+          "Balances",
+          "Badianes",
+          "Boissons"
+        ],
+        "réponse": "Boissons",
+        "anecdote": "La boisson la plus naturelle est l'eau, la seule que boivent les animaux (avec le lait) et la seule qui réhydrate efficacement."
+      },
+      {
+        "id": 19,
+        "question": "Dans une pochette, mot de huit lettres commençant par un S ?",
+        "propositions": [
+          "Silicone",
+          "Surprise",
+          "Solarium",
+          "Suiveuse"
+        ],
+        "réponse": "Surprise",
+        "anecdote": "Généralement de courte durée, la surprise finit par s'estomper pour laisser place à une autre émotion comme la peur ou la joie."
+      },
+      {
+        "id": 20,
+        "question": "Outil de levage, mot de quatre lettres commençant par un C ?",
+        "propositions": [
+          "Cale",
+          "Cure",
+          "Cric",
+          "Cage"
+        ],
+        "réponse": "Cric",
+        "anecdote": "Un cric est un appareil de levage couramment utilisé dans des corps de métiers allant de la réparation automobile aux caves vinicoles."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Qui mérite une image, mot de quatre lettres commençant par un S ?",
+        "propositions": [
+          "Sève",
+          "Slip",
+          "Sage",
+          "Stop"
+        ],
+        "réponse": "Sage",
+        "anecdote": "Le sage représente l'idéal de vie humaine la plus haute, l'excellence dans le savoir ou dans la disposition au savoir."
+      },
+      {
+        "id": 22,
+        "question": "Jongleuse de cirque, mot de six lettres commençant par un O ?",
+        "propositions": [
+          "Otarie",
+          "Osmose",
+          "Octave",
+          "Ovaire"
+        ],
+        "réponse": "Otarie",
+        "anecdote": "Les otaries possèdent de petites oreilles et n'ont pas perdu l'usage de leurs membres postérieurs en reptation terrestre."
+      },
+      {
+        "id": 23,
+        "question": "Monstre sacré, mot de cinq lettres commençant par un I ?",
+        "propositions": [
+          "Inuit",
+          "Idole",
+          "Index",
+          "Image"
+        ],
+        "réponse": "Idole",
+        "anecdote": "Une idole est une représentation matérielle d'une divinité qui fait l'objet d'un culte, comme la divinité elle-même."
+      },
+      {
+        "id": 24,
+        "question": "Se tient au barreau, mot de six lettres commençant par un A ?",
+        "propositions": [
+          "Avocat",
+          "Adulte",
+          "Agenda",
+          "Abruti"
+        ],
+        "réponse": "Avocat",
+        "anecdote": "En droit, l'avocat est un juriste dont les fonctions sont de conseiller, de représenter, d'assister et de défendre ses clients."
+      },
+      {
+        "id": 25,
+        "question": "Penchant de petit clown, mot de six lettres commençant par un M ?",
+        "propositions": [
+          "Magret",
+          "Marmot",
+          "Menhir",
+          "Malice"
+        ],
+        "réponse": "Malice",
+        "anecdote": "Telle une espièglerie, la malice reflète le goût d'un esprit farceur et fin, adepte des petites cachotteries et plaisanteries."
+      },
+      {
+        "id": 26,
+        "question": "Première chambre de bébé, mot de six lettres commençant par un V ?",
+        "propositions": [
+          "Volcan",
+          "Vidoir",
+          "Valise",
+          "Ventre"
+        ],
+        "réponse": "Ventre",
+        "anecdote": "La gestation humaine ou grossesse est l'état d'une femme enceinte, c'est-à-dire portant un embryon ou un foetus humain."
+      },
+      {
+        "id": 27,
+        "question": "Mot doux pour être cher, mot de six lettres commençant par un T ?",
+        "propositions": [
+          "Trésor",
+          "Tampon",
+          "Tocade",
+          "Tortue"
+        ],
+        "réponse": "Trésor",
+        "anecdote": "Le trésor au sens moderne du terme se réfère à un amoncellement d'objets précieux accumulés sous la forme d'un dépôt protégé."
+      },
+      {
+        "id": 28,
+        "question": "Fait chambre à part, mot de huit lettres commençant par un S ?",
+        "propositions": [
+          "Sabotier",
+          "Sénateur",
+          "Suzerain",
+          "Sicilien"
+        ],
+        "réponse": "Sénateur",
+        "anecdote": "Dans de nombreux pays comme la Belgique ou la France, un sénateur est un membre du Sénat, qui tire son nom du Sénat romain."
+      },
+      {
+        "id": 29,
+        "question": "Pompe à la ferme, mot de cinq lettres commençant par un S ?",
+        "propositions": [
+          "Sauge",
+          "Sabot",
+          "Semis",
+          "Salon"
+        ],
+        "réponse": "Sabot",
+        "anecdote": "Un sabot est à l'origine une chaussure réalisée en creusant un morceau de bois pour que le pied puisse s'y glisser."
+      },
+      {
+        "id": 30,
+        "question": "Noble serviteur, mot de quatre lettres commençant par un P ?",
+        "propositions": [
+          "Paon",
+          "Page",
+          "Père",
+          "Pion"
+        ],
+        "réponse": "Page",
+        "anecdote": "Un page était autrefois un jeune apprenti écuyer, passé noble et attaché au service d'un roi, d'une reine ou d'un prince."
+      }
+    ]
+    }
+  }
+}
