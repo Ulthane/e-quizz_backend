@@ -56,9 +56,6 @@ module.exports = (io, socket) => {
                 })
             })
         } else {
-            roomData[room].setWinner();
-            io.to(room).emit("room:winner", roomData[room].getWinner()); // On envoie le nouvelle etat au client
-
             roomData[room].setState({...roomState.FINISH});
             io.to(room).emit("room:state", roomData[room].getState()); // On envoie le nouvelle etat au client
             console.log(`!! La room ${room} vient de terminer la partie.`);

@@ -26,7 +26,6 @@ const joinHandlers = require('./handlers/joinHandlers');
 const playerHandlers = require('./handlers/playerHandlers');
 const gameHandlers = require('./handlers/gameHandlers');
 const Player = require('./library/player');
-const { rejects } = require('assert');
 
 // Paramètre globaux du socket
 let id = 0;
